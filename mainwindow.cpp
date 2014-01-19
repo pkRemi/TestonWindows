@@ -15,5 +15,5 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    ui->label->setText("Funka Bra!");
+    ui->label->setText("Funka Superbra!");
 }
